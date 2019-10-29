@@ -1,0 +1,29 @@
+---
+title: Klimawahl
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+url: https://klimawahl.org
+email: info@klimawahl.org
+description: 'klimawahl.org diskutiert Klimapolitik. Wir analysieren die klimapolitischen
+  Vorschläge der Parteien vor der Bundestagswahl und in der kommenden Legislaturperiode
+  | klimawahl.org wird gemacht von einer Gruppe von Forschern, Journalisten und Experten,
+  die sich beruflich mit Energie- und Klimapolitik beschäftigen. '
+twitter_username: klimawahl
+paginate: 5
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+highlighter: rouge
+permalink: none
+gems:
+- jekyll-feed
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+twitter: klimawahl

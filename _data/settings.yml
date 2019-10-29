@@ -1,0 +1,28 @@
+title:  klimawahl
+tagline: klimawahl.org diskutiert die klimapolitischen Vorschläge der deutschen Parteien vor der Wahl und analysiert die deutsche Klimapolitik in der kommenden Legislaturperiode | klimawahl.org wird gemacht von einer Gruppe von Forschern, Journalisten und Experten, die sich beruflich mit Energie- und Klimapolitik beschäftigen. 
+author: 
+  name:  klimawahl
+  twitter:  klimawahl
+
+# Change to true for Disqus comments
+#disqus:
+#  comments: false
+#  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+# google-ID: 'UA-80213386-1'
+
+menu:
+- {name: 'Über uns', url: 'about.html'}
+#- {name: 'Archiv', url: 'archive.html'}
+#- {name: 'Contact', url: 'contact.html'}
+
+social:
+# - {icon: 'github', link: 'https://www.github.com/lenpaul'}
+- {icon: 'twitter', link: 'https://twitter.com/klimawahl'}
+# - {icon: 'instagram', link: 'https://instagram.com/paululele'}
+# - {icon: 'linkedin', link: 'https://www.linkedin.com/in/lenpaul/'}
+- {icon: 'facebook', link: 'https://www.facebook.com/klimawahl/'}
+- {icon: 'envelope', link: 'mailto:info@klimawahl.org'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+  
